@@ -16,7 +16,7 @@
 
 ## 二、实验目的
 
-1. 复习事件处理
+1. 复习事件处理 
 2. 学习Intent、bundle在Activity跳转中的应用
 3. 学习Recyleview、ListView以及各类适配器的用法
 
