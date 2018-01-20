@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">lab5</string>
+    <string name="appwidget_text">当前没有任何信息</string>
+    <string name="appwidget_icon">商品图标</string>
+    <string name="add_widget">Add widget</string>
+</resources>
