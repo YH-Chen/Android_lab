@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">lab6</string>
+    <string name="PERMISSIONS_STORAGE">android.permission.READ_EXTERNAL_STORAGE</string>
+</resources>
